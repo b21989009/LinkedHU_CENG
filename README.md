@@ -5,7 +5,7 @@
 
 # An academic social media prototype for text based content.
 
-## [_ Here is the Demo you can register and interact with as you like _](https://cryptic-inlet-04642.herokuapp.com/api/front))
+## [_ Here is the Demo you can register and interact with as you like _](https://cryptic-inlet-04642.herokuapp.com/api/front)
 
 
 ### Topics: Software Engineering Workflows, UML and Documentation, Web Development
