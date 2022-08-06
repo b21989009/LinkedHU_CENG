@@ -10,4 +10,4 @@
 
 ### Topics: Software Engineering Workflows, UML and Documentation, Web Development
 
-Source code is not shared due to Hacettepe University CS Department policies. But we recommend following YouTube tutorials by Ramesh Fadatare on topics of SpringBoot and Thymeleaf.
+Source code is not shared due to Hacettepe University CS Department policies. But we recommend following YouTube tutorials by [Ramesh Fadatare](https://www.javaguides.net) on topics of SpringBoot and Thymeleaf.
