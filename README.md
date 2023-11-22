@@ -3,10 +3,9 @@
 
 # Welcome to LinkedHU_CENG   by Average Java Enjoyers. 
 
-# An academic social media prototype for text based content.
+## An academic social media website (not available now) for text based content.
 
-## [_ Here is the Demo you can register and interact with as you like _](https://cryptic-inlet-04642.herokuapp.com/api/front)
-
+It is a SpringBoot (Java Back-end) application built on three-tier MVC architecture, utilizing server-side-HTML-rendering.
 
 ### Topics: Software Engineering Workflows, UML and Documentation, Web Development
 
